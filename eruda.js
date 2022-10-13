@@ -19,7 +19,6 @@
 // @grant      GM_addStyle
 // @grant      GM_getResourceURL
 // @grant      GM_xmlhttpRequest
-
 // @grant      GM_openInTab
 // @grant      GM_notification
 
